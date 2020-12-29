@@ -1,3 +1,15 @@
+# ----------------------------------------------------------------------------
+#
+# Package             : sample-travis-job 
+# Source Repo         : https://github.com/subchen/frep
+# Travis Job Link     : 
+# Created travis.yml  : Yes
+# Maintainer          : santoshkulkarni70@gmail.com <Santosh Kulkarni)
+#
+# Script License      : Apache License, Version 2 or later
+#
+# ----------------------------------------------------------------------------
+
 arch:
   - amd64
   - ppc64le
